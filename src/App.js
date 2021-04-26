@@ -9,7 +9,18 @@ export default function App() {
           <Dictionary />
         </div>
       </div>
-      <footer>Open Source code by: Bhingkay</footer>
+      <footer>
+        <p>
+          Open Source code by: Bhingkay on {""}
+          <a
+            href="https://github.com/bhingkay/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Github
+          </a>
+        </p>
+      </footer>
     </div>
   );
 }
