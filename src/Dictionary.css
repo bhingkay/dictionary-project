@@ -1,3 +1,6 @@
+.Dictionary {
+  max-width: 800px;
+}
 .Dictionary section {
   color: #fff;
   padding: 5px;
@@ -10,8 +13,9 @@ h3 {
   color: #fff;
 }
 .keyword-input {
+  color: #fff;
   font-weight: bold;
-  width: 350px;
+  width: 500px;
   height: 40px;
   border-radius: 0px 16px 16px 16px;
   background-color: rgba(255, 255, 255, 0.5);

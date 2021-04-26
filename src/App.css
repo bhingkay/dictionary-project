@@ -1,20 +1,19 @@
 .App {
-  max-width: fit-content;
+  max-width: 800px;
   margin: 0 auto;
   margin-top: 20px;
   padding-left: 10px;
 }
 
 .main {
+  max-width: 800px;
   background-image: url("./img/Bookworm.jpg");
   background-size: cover;
-  height: 900px;
-  width: 900px;
   border-radius: 10px;
   margin: 0 auto;
   margin-top: 50px;
-  padding-left: 10px;
-  padding: 20px 20px;
+  padding: 100px 20px;
+  padding-bottom: 150px;
 }
 
 .App-header {
@@ -33,4 +32,8 @@
 
 footer {
   color: black;
+}
+
+.vecteezy {
+  margin-left: 290px;
 }

@@ -19,6 +19,10 @@ export default function App() {
           >
             Github
           </a>
+          <span className="vecteezy">
+            Nature Vectors by:
+            <a href="https://www.vecteezy.com/free-vector/nature">Vecteezy</a>
+          </span>
         </p>
       </footer>
     </div>
