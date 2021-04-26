@@ -1,13 +1,15 @@
 .App {
-  max-width: 600px;
+  max-width: fit-content;
   margin: 0 auto;
   margin-top: 20px;
   padding-left: 10px;
 }
+
 .main {
   background-image: url("./img/Bookworm.jpg");
   background-size: cover;
-  height: 500px;
+  height: 900px;
+  width: 900px;
   border-radius: 10px;
   margin: 0 auto;
   margin-top: 50px;
@@ -21,13 +23,14 @@
     rgba(0, 0, 0, 0.2),
     rgba(0, 0, 0, 0.5)
   );
-  height: 500px;
-  width: 590px;
   border: 2px solid rgb(83, 79, 79);
   border-radius: 10px;
   margin: 0 auto;
-  margin-left: -20px;
-  margin-top: -20px;
+  margin-left: 10px;
   padding-left: 10px;
   padding: 20px 20px;
+}
+
+footer {
+  color: black;
 }

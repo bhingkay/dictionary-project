@@ -1,6 +1,9 @@
-.Dictionary {
-  margin-top: 70px;
-  padding: 10px 10px;
+.Dictionary section {
+  color: #fff;
+  padding: 5px;
+  border-radius: 7px;
+  box-shadow: 0 5px 15px rgba(219, 217, 217, 0.1);
+  margin: 20px 0;
 }
 
 h3 {
