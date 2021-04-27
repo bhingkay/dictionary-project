@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <div className="main">
           <div className="App-header">
-            <Dictionary defaultKeyword="pray" />
+            <Dictionary defaultKeyword="Hope" />
           </div>
         </div>
         <footer>
